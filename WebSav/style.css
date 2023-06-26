@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form{
+    padding: 0px 20px 0px 20px;
+    border: 1px solid plum;
+    max-width: 30%;
+}
+
+.title{
+    color: plum;
+}
+
+.input{
+    border: 1px solid plum;
+    border-radius: 5px;
+    margin:5px 0px 30px 0px;
+    padding:10px 50% 10px 0px;
+}
+
+
+textarea{
+    margin-top: 10px;
+    border: 1px solid plum;
+    border-radius: 5px;
+    padding:10px 35% 10px 0px;
+}
+
+.boton{
+    text-align: center;
+    border: 1px solid plum;
+    border-radius: 5px;
+    margin:10px 20% 10px 20%;
+    padding:10px 25% 10px 25%;
+    background-color: plum;
+    color: white;
+}
